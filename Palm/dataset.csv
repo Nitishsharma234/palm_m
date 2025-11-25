@@ -1,0 +1,12 @@
+image_id,hand,age,gender,dominant_line
+image1,right,23,male,life
+image2,left,24,male,head
+image3,left,26,male,heart
+image4,right,34,male,life
+image5,right,24,male,head
+image6,right,45,male,heart
+image7,left,34,male,life
+image8,right,47,male,head
+image9,left,33,male,heart
+image10,right,44,male,life
+image11,left,55,male,head
